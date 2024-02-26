@@ -1,5 +1,3 @@
-# User Buttons Discord
-
 # Установка и настройка
 Версия python: >= 3.8
 
