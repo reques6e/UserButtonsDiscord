@@ -16,4 +16,4 @@ py discord.py
 
 Если возникнут проблемы или вопросы, прочитайте документацию библиотеки pypresence https://github.com/qwertyquerty/pypresence
 
-Script by <img src='https://github.com/reques6e/reques6e/blob/main/assets/images.png'>
+[![Script by](https://github.com/reques6e/reques6e/blob/main/assets/images.png | width=100)](https://github.com/reques6e)
