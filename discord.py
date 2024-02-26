@@ -6,7 +6,6 @@ from time import time
 with open('config.json', mode='r', encoding='utf-8') as f:
     config = json.load(f)
 
-#Чтобы сделать название приложения, нужно зайди в https://discord.com/developers/applications, создать приложение, назвать его и добавить картинки.
 RPC = Presence(client_id=config['id']) 
 RPC.connect()
 
