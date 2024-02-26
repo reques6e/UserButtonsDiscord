@@ -1,4 +1,4 @@
-# Установка и настройка
+![image](https://github.com/reques6e/UserButtonsDiscord/assets/149709871/3f9c7d36-93b8-417d-8705-a3f008b92642)# Установка и настройка
 Версия python: >= 3.8
 
 Для работы скрипта требуется установить необходимые библиотеки:
@@ -16,3 +16,5 @@ py discord.py
 
 
 Если возникнут проблемы или вопросы, прочитайте документацию библиотеки pypresence https://github.com/qwertyquerty/pypresence
+
+Script by <a href='https://github.com/reques6e/reques6e/blob/main/assets/images.png'>
