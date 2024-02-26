@@ -16,5 +16,7 @@ py discord.py
 
 Если возникнут проблемы или вопросы, прочитайте документацию библиотеки pypresence https://github.com/qwertyquerty/pypresence
 
-[![Мой баннер](https://github.com/reques6e/reques6e/blob/main/assets/images.png | width=100)](https://github.com/reques6e)
+<a href='https://github.com/reques6e' style='display: block; text-align: center;'>
+  <img src='https://github.com/reques6e/reques6e/blob/main/assets/images.png' alt='Мой баннер' width='100' height='50'>
+</a>
 
